@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, This is Tahmid Hasan</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate about Game Development</h3>
 
-<img align="right"alt="Game"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.google%2Fproducts%2Fchrome%2Fchrome-dino%2F&psig=AOvVaw2Igqn3Xm5jHjhw3wrLJUx4&ust=1750496987369000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjnpsrT_40DFQAAAAAdAAAAABAE">
-
+<img align="right" alt="Game" width="400" src="https://www.gifcen.com/wp-content/uploads/2025/05/dinosaur-game-gif-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenji-byte&label=Profile%20views&color=0e75b6&style=flat" alt="kenji-byte" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tahmidkun" target="blank"><img src="https://img.shields.io/twitter/follow/tahmidkun?logo=twitter&style=for-the-badge" alt="tahmidkun" /></a> </p>
